@@ -1,6 +1,9 @@
 import { useState, FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
+import { LogoReact } from "../components/LogoReact";
+import { LogoRocket } from "../components/LogoRocket";
+import { LogoRodape } from "../components/LogoRodape";
 import { useCreateSubscriberMutation } from "../graphql/generated";
  
 export function Subscribe() {
@@ -28,6 +31,7 @@ export function Subscribe() {
     <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
       <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto">
         <div className="max-w-[640px]">
+          
           <Logo />
 
           <h1 className="mt-8 text-[2.5rem] leading-tight">
@@ -65,8 +69,12 @@ export function Subscribe() {
           </form>
         </div>
       </div>
-
-      <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+      
+      <LogoRodape />
+      <div className="w-full py-0 flex items-center justify-center bg-gray-700 border-b border-gray-600">    
+       <LogoRocket />
+      </div>
+      
     </div>
   );
 }
