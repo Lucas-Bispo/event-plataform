@@ -1,14 +1,15 @@
 {
-  "name": "event-plataform",
+  "name": "event-platform",
   "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "codegen": "graphql-codegen"
   },
   "dependencies": {
-    "@apollo/client": "^3.6.9",
+    "@apollo/client": "^3.6.8",
     "@vime/core": "^5.3.1",
     "@vime/react": "^5.3.1",
     "classnames": "^2.3.1",
@@ -29,7 +30,7 @@
     "@vitejs/plugin-react": "^1.3.0",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
-    "tailwindcss": "^3.1.4",
+    "tailwindcss": "^3.1.3",
     "typescript": "^4.6.3",
     "vite": "^2.9.9"
   }
