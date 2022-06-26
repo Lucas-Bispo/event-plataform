@@ -88,11 +88,6 @@
       </tr>
       <tr>
         <td align="center" height="110" width="140">
-          <img alt="Autoprefixer logo" height="45" src="https://www.pngkey.com/png/full/952-9528805_autoprefixer-vector-css-autoprefixer.png" title="Autoprefixer" width="60" />
-          <br>
-          <span>Autoprefixer</span>
-        </td>
-        <td align="center" height="110" width="140">
           <img alt="PostCSS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/790px-PostCSS_Logo.svg.png" title="PostCSS" width="50" />
           <br>
           <span>PostCSS</span>
