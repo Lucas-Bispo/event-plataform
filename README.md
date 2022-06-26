@@ -39,7 +39,7 @@
   
   ## 💻 Como acessar
   
- ## A aplicação está hospedada na  e pode ser acessada [aqui](https://wedget-lucas-bispo.vercel.app).##
+ ## A aplicação está hospedada na  e pode ser acessada [aqui](https://event-plataform-q0tmdoufb-lucas-bispo.vercel.app).##
   
   ## 🛠️ Tecnologias utilizadas
   
@@ -85,11 +85,6 @@
           <br>
           <span>TypeScript</span>
         </td>
-        <td align="center" height="110" width="140">
-          <img alt="Axios logo" src="https://avatars.githubusercontent.com/u/32372333?v=4&s=400" title="Axios" width="50" />
-          <br>
-          <span>Axios</span>
-        </td>
       </tr>
       <tr>
         <td align="center" height="110" width="140">
@@ -107,109 +102,17 @@
           <br>
           <span>Phosphor</span>
         </td>
-        <td align="center" height="110" width="140">
-          <img alt="Headless UI logo" src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" title="Headless UI" width="50" />
-          <br>
-          <span>Headless UI</span>
-        </td>
       </tr>
     </tbody>
   </table>
   
-  <h3 align="center">🗄️ Back-End</h3>
   
-  <table align="center">
-    <tbody>
-      <tr>
-        <td align="center" height="110" width="140">
-          <img alt="Node.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" />
-          <br>
-          <span>Node.js</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="Express.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" width="50" />
-          <br>
-          <span>Express.js</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="MongoDB logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" />
-          <br>
-          <span>MongoDB</span>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" height="110" width="140">
-          <img alt="Jest logo" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" title="Jest" width="50" />
-          <br>
-          <span>Jest</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="TypeScript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="50" />
-          <br>
-          <span>TypeScript</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="Prisma logo" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" title="Prisma" width="50" />
-          <br>
-          <span>Prisma</span>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td align="center" height="110" width="140">
-          <img alt="Nodemailer logo" height="45" src="https://blog.nodemailer.com/wp-content/uploads/2017/01/cropped-nm_logo_1000x680.png" title="Nodemailer" width="70" />
-          <br>
-          <span>Nodemailer</span>
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
   
-  <h3 align="center">📱 Mobile</h3>
   
-  <table align="center">
-    <tbody>
-      <tr>
-        <td align="center" height="110" width="140">
-          <img alt="JavaScript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50" />
-          <br>
-          <span>JavaScript</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="React Native logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" width="50" />
-          <br>
-          <span>React Native</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="TypeScript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="50" />
-          <br>
-          <span>TypeScript</span>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" height="110" width="140">
-          <img alt="Phosphor logo" src="https://raw.githubusercontent.com/phosphor-icons/phosphor-react/HEAD/meta/phosphor-mark-tight-yellow.png" title="Phosphor" width="50" />
-          <br>
-          <span>Phosphor</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="Expo logo" src="https://logos-download.com/wp-content/uploads/2021/01/Expo_Logo-420x372.png" title="Expo" width="50" />
-          <br>
-          <span>Expo</span>
-        </td>
-        <td align="center" height="110" width="140">
-          <img alt="Axios logo" src="https://avatars.githubusercontent.com/u/32372333?v=4&s=400" title="Axios" width="50" />
-          <br>
-          <span>Axios</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
   
   ## 🚀 Desenvolvido em
   
-  22 de mai. de 2022
+  20 de Jun. de 2022
   
   <p align="center">✨ Feito com muito foco por <a href="https://github.com/Lucas-Bispo"><strong>Lucas Bispo</strong></a> ✨</p>
   
