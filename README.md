@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Trilha Inpulse Ignite-lab" src="https://user-images.githubusercontent.com/60610011/175818484-c0bffcd6-1078-4b5e-9741-d3ebdf96e6cf.png">
+    <img alt="Trilha Inpulse Ignite-lab" src="https://user-images.githubusercontent.com/60610011/175821753-10a7533d-f336-420f-8d81-ae0cb3c561f1.png">
   </div>
   
   <br>
