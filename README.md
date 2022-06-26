@@ -85,6 +85,11 @@
           <br>
           <span>TypeScript</span>
         </td>
+        <td align="center" height="110" width="140">
+          <img alt="Phosphor logo" src="https://raw.githubusercontent.com/phosphor-icons/phosphor-react/HEAD/meta/phosphor-mark-tight-yellow.png" title="Phosphor" width="50" />
+          <br>
+          <span>Phosphor</span>
+        </td>
       </tr>
       <tr>
         <td align="center" height="110" width="140">
@@ -92,11 +97,7 @@
           <br>
           <span>PostCSS</span>
         </td>
-        <td align="center" height="110" width="140">
-          <img alt="Phosphor logo" src="https://raw.githubusercontent.com/phosphor-icons/phosphor-react/HEAD/meta/phosphor-mark-tight-yellow.png" title="Phosphor" width="50" />
-          <br>
-          <span>Phosphor</span>
-        </td>
+        
       </tr>
     </tbody>
   </table>
