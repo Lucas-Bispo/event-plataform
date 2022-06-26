@@ -1,30 +1,27 @@
 <div align="center">
     <img alt="Trilha Inpulse Ignite-lab" src="https://user-images.githubusercontent.com/60610011/175818484-c0bffcd6-1078-4b5e-9741-d3ebdf96e6cf.png">
   </div>
-  <div align="center">
-    <img alt="Trilha Inpulse Ignite-lab" src="url(#egFWQo9PLDX2-fill)">
-  </div>
   
   <br>
   
   <div align="center">
     <img alt="Impulse logo" src="https://camo.githubusercontent.com/fb3dfe80e0317c271f3d15312b212f6d475186903c40dbc0fb274de2656feab3/68747470733a2f2f676c6f62616c2d75706c6f6164732e776562666c6f772e636f6d2f3631643833613265626230616530316162393665383431612f3632346635303435326265656339616432363164636164385f6c6f676f2d696d70756c736f2d6e6c772e737667">
     <div>
-      <h1>Feedback Widget</h1>
-      <span>🚀 Next Level Week #8</span>
+      <h1>Plataforma de Eventos</h1>
+      <span>🚀 Ignite 🚀</span>
     </div>
   </div>
   
   ## 📚 Sobre
   
-  Widget para o envio de feedbacks de usuários em aplicações web e mobile.
+  Plataforma de Eventos: Garante que os usuário tenham um apredizado sobre determinados assuntos em até cinco dias ou mais.
   
   ### 🕹️ Possui as seguintes funcionalidades:
   
-  - Escolher um tipo de feedback.
-  - Escrever um comentário.
-  - Tirar print da tela.
-  - Enviar esses dados.
+  - Tela de cadastro.
+  - Escolher qual aula deseja assistir.
+  - Botão de acesso ao material de apoio.
+  - Botão que vai a entrada da comunidade.
   
   O administrador recebe os dados por e-mail.
   
@@ -34,11 +31,11 @@
   
   ### 🏗️ Desenvolvimento
   
-  Projeto desenvolvido durante a trilha **Impulse** no evento **NLW Return** da [Rocketseat](https://www.rocketseat.com.br/).
+  Projeto desenvolvido durante a trilha **Impulse** no evento **Ignite-lab** da [Rocketseat](https://www.rocketseat.com.br/).
   
   ## 🔎 Demonstração
   
-  <img alt="Application demo GIF" src=".github/demo.gif">
+  <img alt="Application demo GIF" src=".github/ignite.gif">
   
   ## 💻 Como acessar
   
